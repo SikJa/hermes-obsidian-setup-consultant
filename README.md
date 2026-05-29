@@ -2,7 +2,7 @@
 
 Una skill para Hermes Agent que ayuda a instalar, diseñar y conectar Obsidian como segundo cerebro, base de conocimiento o memoria legible por agentes IA.
 
-![Hermes + Obsidian](assets/hermes-girl-logo.jpg)
+![Mapa visual Hermes + Obsidian](assets/hero-hermes-obsidian.jpg)
 
 ## Qué hace
 
@@ -83,11 +83,7 @@ La skill primero hace 10 preguntas de descubrimiento y después propone:
 
 ### Mapa conceptual
 
-![Vista 1](assets/screenshot-1.jpg)
-
-### Arquitectura Hermes + Obsidian
-
-![Vista 2](assets/screenshot-2.jpg)
+![Mapa visual mejorado Hermes + Obsidian](assets/mapa-visual-hermes-obsidian.jpg)
 
 También incluimos una demo HTML visual:
 
