@@ -93,13 +93,23 @@ Y un super prompt para usar en descripciones de video:
 
 - [`docs/super-prompt-instalar-obsidian-hermes.md`](docs/super-prompt-instalar-obsidian-hermes.md)
 
+## Ejemplos y validación
+
+- [`examples/founder-creator-vault.md`](examples/founder-creator-vault.md) — ejemplo de vault para founders, creadores y consultores.
+- [`docs/vault-validation-checklist.md`](docs/vault-validation-checklist.md) — checklist para validar que el vault sea útil para humanos y agentes.
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — guía para reportar mejoras, sumar ejemplos y mantener la skill simple.
+- [`CHANGELOG.md`](CHANGELOG.md) — historial de cambios del proyecto.
+
 ## Estructura del repo
 
 ```text
 skill/obsidian-setup-consultant/SKILL.md  # skill principal
 assets/                                   # imágenes y recursos visuales
 demo/                                     # demo HTML
-docs/                                     # prompts y documentación
+docs/                                     # prompts, checklist y documentación
+examples/                                 # ejemplos de vaults por caso de uso
+CONTRIBUTING.md                           # guía para colaborar
+CHANGELOG.md                              # historial de cambios
 ```
 
 ## Para quién es
